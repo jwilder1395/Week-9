@@ -1,0 +1,22 @@
+body {
+    background-color: rebeccapurple;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+.mainpage {
+    margin-top: 20px;
+}
+
+.quotecard {
+    margin: 10px 10px 20px 10px;
+}
+
+.hero {
+    margin: 0px 10px 10px 20px;
+}
+
+.about {
+    margin: 20px;
+    padding: 20px;
+}
